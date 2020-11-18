@@ -1,0 +1,16 @@
+body{
+	text-align: center;
+	margin: 250px;
+}
+button{
+	padding: 1em;
+	border-style: dotted;
+	border-width: 5px;
+	border-color: black;
+	font-family: Arial , sans-serif;
+  	background-color: lightgrey;
+}
+h1{
+
+	font-family: Arial , sans-serif;
+}
