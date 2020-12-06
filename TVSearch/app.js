@@ -13,7 +13,6 @@ const makeImage = (shows) => {
 form.addEventListener('submit', async function(e){
 e.preventDefault()
 const preimg= document.querySelectorAll('img')
-console.log(preimg.length)
 if(preimg.length>0)
 {   for(let allimg of preimg)
     {
