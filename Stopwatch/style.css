@@ -1,0 +1,21 @@
+.display{
+    background-color:#b185db;
+    text-align: center;
+}
+button{
+    background-color:#d092ff;
+    margin: 10px;
+    width: 70px;
+}
+.btn{
+    text-align: center;
+}
+.bord{
+    background-color: #7b2cbf; 
+    padding: 20px;
+    margin: 20px;
+}
+body{
+    background-color: #795f91;
+    background-image: url("C:/Users/HP/Downloads/pawel-czerwinski-Z06Aa4W20fY-unsplash.jpg");
+}
